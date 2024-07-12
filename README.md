@@ -1,3 +1,8 @@
+---
+layout: default
+title: The Crazy Man from Mozambique
+---
+
 # The Crazy Man from Mozambique
 
 ![Crazy Man Image](image_2024_07_09T09_34_34_076Z-1.png)
